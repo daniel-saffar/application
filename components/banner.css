@@ -1,5 +1,5 @@
 .banner { 
-background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(../images/students.jpg);
+background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(images/students.jpg);
 color: white;
 padding: 200px 0px 0px;
 background-size: cover;
@@ -10,7 +10,7 @@ margin-bottom: 80px;
 }
 
 .banner-programme {
-background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(../images/data-analyst.jpeg);
+background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(images/data-analyst.jpeg);
 color: white;
 padding: 300px 0px 0px;
 background-size: cover;
@@ -25,7 +25,7 @@ margin-bottom: 40px;
 }
 
 .banner-start{
-background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(../images/students.jpg);
+background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url(images/students.jpg);
 color: white;
 padding: 200px 0px 0px;
 background-size: cover;
